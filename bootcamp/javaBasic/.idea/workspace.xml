@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="243bb8bf-802e-4902-a7e7-39b61e278471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Collectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Decompose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/FunctionComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/LambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/LongToIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Parallelism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/ParseMolecule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/ReverseArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/StreamCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/StreamEfficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/StreamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/SumOfInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Timeit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/codewar/Integer/DecomposeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/codewar/Integer/IntervalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/codewar/Integer/LongToIPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/codewar/Integer/ReverseArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/codewar/string/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaEE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaEE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewar/Accumul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewar/Accumul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Accumul.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Accumul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/AreSame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/AreSame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/ArrayEdx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/ArrayEdx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/DBConnectionPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/DBConnectionPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/EncryptString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/EncryptString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/ExceptionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/ExceptionExampleTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/ExceptionExampleTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/FindOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/FindOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Lexicographical.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Lexicographical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/LikesClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/LikesClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/SqlinRect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/SqlinRect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/StringError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/StringError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Tortoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Tortoise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/TrailingZerosOfN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/TrailingZerosOfN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/Vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/Vowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/BoundedSemaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/BoundedSemaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/CountingSemaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/CountingSemaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/ProcessadorThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/ProcessadorThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/RecevingThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/RecevingThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/Semaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/SendingThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/codewar/semaforo/SendingThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/AreSameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/AreSameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/FindOddTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/FindOddTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/SqlinRectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/SqlinRectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/TortoiseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/TortoiseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/TrailingZerosOfNTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/Integer/TrailingZerosOfNTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/SpringContextIntegrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/SpringContextIntegrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/string/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/string/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/string/EncryptStringTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/string/EncryptStringTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/codewar/string/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/codewar/string/StringTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XP1WQeaLa6Ndgp1sQIXV835Kwf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.codewar" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.codewar" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/org.codewar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReverseArrays">
+    <configuration name="Accumul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewar.Accumul" />
+      <module name="javaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewar.ReverseArrays" />
+      <module name="javaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewar.Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.codewar.Integer" />
+      <option name="MAIN_CLASS_NAME" value="org.codewar.Integer.IntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewar.Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.codewar.Integer" />
+      <option name="MAIN_CLASS_NAME" value="org.codewar.Integer.ReverseArraysTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewar.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.codewar.string" />
+      <option name="MAIN_CLASS_NAME" value="org.codewar.string.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseArrays" />
+        <item itemvalue="JUnit.ReverseArraysTest" />
+        <item itemvalue="Application.Accumul" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.IntervalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="243bb8bf-802e-4902-a7e7-39b61e278471" name="Default Changelist" comment="" />
+      <created>1580932946727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580932946727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="116" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582544109541">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="116" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1582544109541" />
+    <state x="444" y="175" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580937341337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="444" y="175" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1580937341337" />
+    <state x="444" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580937374956">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="444" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1580937374956" />
+    <state x="469" y="258" width="484" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582534444325">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="258" width="484" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1582534444325" />
+    <state width="1253" height="161" key="GridCell.Tab.0.bottom" timestamp="1582482314436">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582482314436" />
+    <state width="1253" height="161" key="GridCell.Tab.0.center" timestamp="1582482314435">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582482314435" />
+    <state width="1253" height="161" key="GridCell.Tab.0.left" timestamp="1582482314435">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582482314435" />
+    <state width="1253" height="161" key="GridCell.Tab.0.right" timestamp="1582482314435">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582482314435" />
+    <state width="1233" height="202" key="GridCell.Tab.1.bottom" timestamp="1580946418645">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="202" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580946418645" />
+    <state width="1233" height="202" key="GridCell.Tab.1.center" timestamp="1580946418641">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="202" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1580946418641" />
+    <state width="1233" height="202" key="GridCell.Tab.1.left" timestamp="1580946418641">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="202" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1580946418641" />
+    <state width="1233" height="202" key="GridCell.Tab.1.right" timestamp="1580946418644">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="202" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1580946418644" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582472948570">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582472948570" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581105133199">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581105133199" />
+    <state x="383" y="293" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580937767040">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="383" y="293" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1299.741@67.27.1299.741" timestamp="1580937767040" />
+    <state x="490" y="102" width="443" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580937813237">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="490" y="102" width="443" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1580937813237" />
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1582462542268">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1582462542268" />
+    <state x="380" y="176" key="run.anything.popup" timestamp="1581359759536">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="176" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1581359759536" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582494255224">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1582494255224" />
+  </component>
+</project>
