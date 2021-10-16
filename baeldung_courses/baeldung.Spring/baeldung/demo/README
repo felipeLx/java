@@ -1,0 +1,7 @@
+@Controller and @RestController
+Difference between annotation:
+
+controller - work for both / response directly to the body @ResponseBody
+restController - use the ResponseBody by default, so we don need to duplicate the same code for all methods
+
+    right annotation for restController: @GetMapping, @PostMapping, @PutMapping, @DeleteMapping
